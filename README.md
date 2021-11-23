@@ -5,7 +5,7 @@ Instructions:
 
 1) In Google Drive, create a new empty Spreadsheet
 2) Give your Spreadsheet a name ("My Shared Files")
-3) Select Tools -> Script Editor
+3) Select Extensions -> Apps Script
 4) Select all the script contents and replace with the getSharedFiles script
 5) Select File -> Save
 6) Enter a Project Name and press OK
